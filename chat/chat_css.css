@@ -1,0 +1,24 @@
+.w-400{
+    width: 400px;
+}
+
+.fs-xs{
+    font-size: 1rem;
+}
+
+.w-10{
+    width:10%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.rtext{
+    width: 65% !important;
+}
+
+.ltext{
+    width: 65% !important;
+    background-color: rgb(244, 179, 16) !important;
+}
